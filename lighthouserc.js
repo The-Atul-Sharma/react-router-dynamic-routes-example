@@ -8,9 +8,9 @@ module.exports = {
         "/courses",
         "/courses/0",
       ],
-    }
+    },
     upload: {
-      "target": "temporary-public-storage"
+      target: "temporary-public-storage"
     }
   }
 }
